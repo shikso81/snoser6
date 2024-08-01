@@ -3,7 +3,6 @@ import threading
 import random
 from pystyle import Colors, Box, Write, Center, Colorate
 import time
-import ctypes
 import requests
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
